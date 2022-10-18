@@ -1,3 +1,3 @@
 ### Glady_repo
 
-- created a seperate repo to avoid conflict
+- created a seperate repo to avoid git conflicts :)
